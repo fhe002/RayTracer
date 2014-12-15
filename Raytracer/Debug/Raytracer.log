@@ -1,0 +1,45 @@
+﻿Build started 12/14/2014 12:21:15 PM.
+     1>Project "F:\Users\F\Documents\Visual Studio\Raytracer\Raytracer\Raytracer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(879): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(902): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(910): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(918): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(955): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(979): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(992): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(994): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1068): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1073): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1078): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1083): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1091): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1096): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1101): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1106): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1114): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1119): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1124): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1129): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1144): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1149): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1154): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1159): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1167): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1172): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1177): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1182): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1190): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1195): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1200): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\raytracer\raytracer\main.cpp(1205): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Users\F\Documents\Visual Studio\Raytracer\Debug\Raytracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Users\F\Documents\Visual Studio\Raytracer\Debug\Raytracer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Users\F\Documents\Visual Studio\Raytracer\Debug\Raytracer.lib" /MACHINE:X86 Debug\main.obj
+         Raytracer.vcxproj -> F:\Users\F\Documents\Visual Studio\Raytracer\Debug\Raytracer.exe
+     1>Done Building Project "F:\Users\F\Documents\Visual Studio\Raytracer\Raytracer\Raytracer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
